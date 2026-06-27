@@ -376,10 +376,6 @@ This project is licensed under the MIT License.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-For support, email support@jobhunter.com or open an issue on GitHub.
-
 ## 🙏 Acknowledgments
 
 - Built with FastAPI, Next.js, and modern web technologies
